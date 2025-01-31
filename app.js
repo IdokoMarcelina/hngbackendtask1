@@ -13,7 +13,7 @@ app.get('/', (req,res)=>{
     res.status(200).json({
         email: "idokomarcelinauregu@gmail.com",
         current_datetime: new Date().toISOString(),
-        github_url: "https://github.com/IdokoMarcelina/hngbackendtask1.git "
+        github_url: "https://github.com/IdokoMarcelina/hngbackendtask1.git"
         
     })
 })
