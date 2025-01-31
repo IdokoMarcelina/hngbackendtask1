@@ -16,5 +16,5 @@ This is a public API that returns basic information such as:
 ## Setup Instructions
 1. Clone the repository:
    ```sh
-   git clone 
+   git clone https://github.com/IdokoMarcelina/hngbackendtask1.git
 2. npm run dev
