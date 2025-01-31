@@ -18,3 +18,10 @@ This is a public API that returns basic information such as:
    ```sh
    git clone https://github.com/IdokoMarcelina/hngbackendtask1.git
 2. npm run dev
+
+## Endpoint url 
+      https://hngbackendtask1-4.onrender.com
+
+      
+## One backlink
+   https://hng.tech/hire/nodejs-developers
